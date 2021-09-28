@@ -1,0 +1,14 @@
+ALGORITHM
+
+1)Declare the required variables for name,class,section,5 subjects marks,total marks and to store grade.
+
+2)Ask user to input all values of variables.
+
+3)Calculate total marks using arithmetic operator.
+
+4)Calculate grade from total marks using if else statement.
+
+5)Finally Print the report in the required format as shown in the question.
+
+6)Add some user friendly messages and user friendly experience.
+
